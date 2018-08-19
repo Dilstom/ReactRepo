@@ -8,7 +8,6 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
-// const API_KEY = 'AIzaSyDO-_OYwLCB1iW4x7QWEjHgKBKTaE-L_n8';
 const API_KEY = API_K;
 
 // create a new comoponents. This component should produce some HTML
